@@ -237,9 +237,9 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  color: #3a3e41;
-  font-size: 1.8em;
-  line-height: 1.5;
+  color: #000;
+  font-size: 2em;
+  line-height: 1.3;
   font-family: "Libertinus Sans", "Source Han Serif SC", KaiTi, FangSong, STFangsong, sans-serif;
   scroll-behavior: smooth;
 }
@@ -265,7 +265,7 @@ blockquote p {
 }
 #page_header {
   position: relative;
-  border-bottom: 1px solid #f2f3f3;
+  border-bottom: 5px solid #f2f3f3;
   -webkit-animation: intro 0.3s both;
   animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -288,8 +288,8 @@ blockquote p {
 #blog_name a {
   display: block;
   margin: 0 1.6rem;
-  padding: 0.8rem 0;
-  color: #7a8288;
+  padding: 0rem 0;
+  color: #000;
   font-weight: 600;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-in-out;
@@ -314,7 +314,7 @@ blockquote p {
     padding: 5px;
     border-width: 1px;
     border-style: solid;
-    border-color: #f2f3f3;
+    border-color: #7a8288;
     border-image: initial;
     border-radius: 4px;
     background: #fff;
@@ -394,8 +394,8 @@ blockquote p {
     position: relative;
     display: block;
     margin: 0 1.6rem;
-    padding: 0.8rem 0;
-    color: #7a8288;
+    padding: 0 rem 0;
+    color: #000;
     text-decoration: none;
   }
   .menus_items li a::before {
@@ -403,7 +403,6 @@ blockquote p {
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 4px;
     background: #bdc1c4;
     width: 100%;
     -webkit-transition: all 0.2s ease-in-out;
@@ -779,7 +778,7 @@ blockquote p {
 }
 #page_footer {
   clear: both;
-  height: 100px;
+  height: 10px;
   width: 100%;
   float: left;
   margin-left: 0;
@@ -789,8 +788,8 @@ blockquote p {
   animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  background-color: #f2f3f3;
-  border-top: 1px solid #bdc1c4;
+  background-color: #fff;
+  border-top: 5px solid #f2f3f3;
 }
 #page_footer a {
   color: #9ba1a6;
@@ -805,7 +804,7 @@ blockquote p {
   margin-left: auto;
   margin-right: auto;
   clear: both;
-  margin-top: 2em;
+  margin-top: 0em;
   padding-left: 2.5em;
   font-size: 1.28rem;
 }
