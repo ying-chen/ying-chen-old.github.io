@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Ying Chen</title>
+  <title>Welcome - Ying Chen</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -41,15 +41,15 @@
     <link href="http://example.com/2021/10/11/Introduction/"/>
     <id>http://example.com/2021/10/11/Introduction/</id>
     <published>2021-10-10T17:48:50.000Z</published>
-    <updated>2022-06-16T10:14:29.741Z</updated>
+    <updated>2022-06-24T13:02:07.259Z</updated>
     
-    <content type="html"><![CDATA[<p>Last update @ November 18, 2020</p><p>Currently I am a post graduate student at University of Nottingham Ningbo China. Below are my contact details. Feel free to find me if you have any questions, comments or requests.</p><h4 id="Research-Interests"><a href="#Research-Interests" class="headerlink" title="Research Interests"></a>Research Interests</h4><p>Behavioural Economics, Experimental Economics, Social Network, Social Preferences.</p><h4 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h4><p><em>Electronic Mail</em><br>Ying dot Chen2 at nottingham dot edu dot cn</p><p><em>Snail Mail</em><br>Trent Building 453<br>University of Nottingham Ningbo China<br>199 Taikang East Road Ningbo, 315100, China</p>]]></content>
+    <content type="html"><![CDATA[<p>Last update @ June 24, 2022</p><p>I am a post graduate student at University of Nottingham Ningbo China. Feel free to find me if you have any questions, comments or requests.</p><p>My primary research interests are in the areas of Behavioural and Experimental Economics.</p><p>My CV,  ORCID ID and my google scholar page.</p><h4 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h4><p><em>Electronic Mail</em><br>Ying dot Chen2 at nottingham dot edu dot cn</p><p><em>Snail Mail</em><br>Trent Building 453<br>University of Nottingham Ningbo China<br>199 Taikang East Road Ningbo, 315100, China</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Last update @ November 18, 2020&lt;/p&gt;
-&lt;p&gt;Currently I am a post graduate student at University of Nottingham Ningbo China. Below are my cont</summary>
+    <summary type="html">&lt;p&gt;Last update @ June 24, 2022&lt;/p&gt;
+&lt;p&gt;I am a post graduate student at University of Nottingham Ningbo China. Feel free to find me if you hav</summary>
       
     
     
