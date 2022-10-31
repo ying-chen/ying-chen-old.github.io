@@ -1,5 +1,5 @@
-http://example.com/changelog/index.html
 http://example.com/cv/index.html
+http://example.com/changelog/index.html
 http://example.com/blog/index.html
 http://example.com/teaching/index.html
 http://example.com/project/index.html

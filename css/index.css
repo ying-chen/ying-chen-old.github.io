@@ -355,7 +355,7 @@ blockquote p {
   top: 22px;
   height: 30px;
   width: 30px;
-  background-color: #7a8288;
+  background-color: #096494 !important;
   color: #fff;
   cursor: pointer;
   padding: 10px 0.3rem;
@@ -550,7 +550,7 @@ blockquote p {
   font-size: 1.8rem;
 }
 .author-discrip .author-bio {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   margin: 0.3rem 0;
 }
 .author-links {
@@ -598,10 +598,10 @@ blockquote p {
 }
 .m-social-links {
   background-color: #fff;
-  color: #7a8288 !important;
-  border-width: 1px !important;
+  color: #096494 !important;
+  border-width: 2px !important;
   border-style: solid !important;
-  border-color: #bdc1c4 !important;
+  border-color: #096494 !important;
   border-image: initial !important;
 }
 .m-social-links:hover {
@@ -849,7 +849,7 @@ blockquote p {
   position: absolute;
   height: 30px;
   width: 30px;
-  background-color: #7a8288;
+  background-color: #096494 !important;
   color: #fff;
   cursor: pointer;
   padding: 0px 0.3rem;
@@ -970,7 +970,7 @@ blockquote p {
   margin-top: 3px;
   width: 30px;
   height: 30px;
-  background-color: #7a8288;
+  background-color: #096494 !important;
   color: #fff;
   text-align: center;
   text-decoration: none;
