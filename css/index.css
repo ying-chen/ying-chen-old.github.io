@@ -289,7 +289,7 @@ blockquote p {
   display: block;
   margin: 0 1.6rem;
   padding: 0rem 0;
-  color: #7a8288;
+  color: #000;
   font-weight: 600;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-in-out;
