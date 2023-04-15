@@ -237,16 +237,16 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  color: #494e52;
+  color: #000;
   font-size: 1.8em;
   line-height: 1.5;
-  font-family: "Times New Roman", FangSong, STFangsong, sans-serif;
+  font-family: "Libertinus Sans", "Source Han Serif SC", KaiTi, FangSong, STFangsong, sans-serif;
   scroll-behavior: smooth;
 }
 a,
 span,
 .btn {
-  font-family: "Times New Roman", FangSong, STFangsong, sans-serif;
+  font-family: "Libertinus Sans", "Source Han Serif SC", KaiTi, FangSong, STFangsong, sans-serif;
 }
 img {
   max-width: 100%;
@@ -265,7 +265,7 @@ blockquote p {
 }
 #page_header {
   position: relative;
-  border-bottom: 1px solid #f2f3f3;
+  border-bottom: 2px solid #f2f3f3;
   -webkit-animation: intro 0.3s both;
   animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -288,7 +288,7 @@ blockquote p {
 #blog_name a {
   display: block;
   margin: 0 1.6rem;
-  padding: 0.8rem 0;
+  padding: 0rem 0;
   color: #7a8288;
   font-weight: 600;
   text-decoration: none;
@@ -355,7 +355,7 @@ blockquote p {
   top: 22px;
   height: 30px;
   width: 30px;
-  background-color: #7a8288;
+  background-color: #096494 !important;
   color: #fff;
   cursor: pointer;
   padding: 0px 0.3rem;
@@ -394,8 +394,8 @@ blockquote p {
     position: relative;
     display: block;
     margin: 0 1.6rem;
-    padding: 0.8rem 0;
-    color: #7a8288;
+    padding: 0 rem 0;
+    color: #000;
     text-decoration: none;
   }
   .menus_items li a::before {
@@ -403,7 +403,6 @@ blockquote p {
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 4px;
     background: #bdc1c4;
     width: 100%;
     -webkit-transition: all 0.2s ease-in-out;
@@ -486,7 +485,7 @@ blockquote p {
   text-align: right;
 }
 .page article code {
-  font-family: "Times New Roman", FangSong, STFangsong, sans-serif;
+  font-family: "Libertinus Sans", "Source Han Serif SC", KaiTi, FangSong, STFangsong, sans-serif;
   padding: 0.2rem 0.3rem;
   background: rgba(27,31,35,0.05);
   word-wrap: break-word;
@@ -498,7 +497,7 @@ blockquote p {
 }
 @media (min-width: 34em) {
   .page {
-    width: 82.5%;
+    width: calc(98% - 165px);
     float: right;
     margin-right: 0;
     -webkit-box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06);
@@ -535,9 +534,9 @@ blockquote p {
   height: 40px;
 }
 .author-avatar img {
-  width: 100%;
+  width: 120%;
   max-width: 110px;
-  border-radius: 50%;
+  border-radius: 0%;
 }
 .author-discrip {
   display: table-cell;
@@ -599,10 +598,10 @@ blockquote p {
 }
 .m-social-links {
   background-color: #fff;
-  color: #7a8288 !important;
+  color: #096494 !important;
   border-width: 1px !important;
   border-style: solid !important;
-  border-color: #bdc1c4 !important;
+  border-color: #096494 !important;
   border-image: initial !important;
 }
 .m-social-links:hover {
@@ -706,8 +705,7 @@ blockquote p {
 }
 @media (min-width: 34em) {
   .side-card {
-    width: 15.25424%;
-    min-width: 165px;
+    width: 165px;
     float: left;
     margin-right: 1.69492%;
     opacity: 0.75;
@@ -793,8 +791,8 @@ blockquote p {
   animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  background-color: #f2f3f3;
-  border-top: 1px solid #bdc1c4;
+  background-color: #fff;
+  border-top: 2px solid #f2f3f3;
 }
 #page_footer a {
   color: #9ba1a6;
@@ -847,7 +845,7 @@ blockquote p {
   position: absolute;
   height: 30px;
   width: 30px;
-  background-color: #7a8288;
+  background-color: #096494 !important;
   color: #fff;
   cursor: pointer;
   padding: 0px 0.3rem;
