@@ -223,7 +223,7 @@ figure.highlight {
   background: rgba(128,203,196,0.251);
   color: #525252;
 }
-* {
+he {
   -webkit-text-size-adjust: none;
 }
 html {
@@ -240,13 +240,13 @@ body {
   color: #000;
   font-size: 1.8em;
   line-height: 1.5;
-  font-family: "Libertinus Sans", "Source Han Serif SC", KaiTi, FangSong, STFangsong, sans-serif;
+  font-family: $font-family;
   scroll-behavior: smooth;
 }
 a,
 span,
 .btn {
-  font-family: "Libertinus Sans", "Source Han Serif SC", KaiTi, FangSong, STFangsong, sans-serif;
+  font-family: $font-family;
 }
 img {
   max-width: 100%;
@@ -485,7 +485,7 @@ blockquote p {
   text-align: right;
 }
 .page article code {
-  font-family: "Libertinus Sans", "Source Han Serif SC", KaiTi, FangSong, STFangsong, sans-serif;
+  font-family: $font-family;
   padding: 0.2rem 0.3rem;
   background: rgba(27,31,35,0.05);
   word-wrap: break-word;
