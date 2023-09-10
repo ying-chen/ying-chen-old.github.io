@@ -240,13 +240,13 @@ body {
   color: #000;
   font-size: 1.8em;
   line-height: 1.5;
-  font-family: $font-family;
+  font-family: Helvetica, Arial, "Libertinus Sans", STFangsong, FangSong, sans-serif;
   scroll-behavior: smooth;
 }
 a,
 span,
 .btn {
-  font-family: $font-family;
+  font-family: Helvetica, Arial, "Libertinus Sans", STFangsong, FangSong, sans-serif;
 }
 img {
   max-width: 100%;
@@ -485,7 +485,7 @@ blockquote p {
   text-align: right;
 }
 .page article code {
-  font-family: $font-family;
+  font-family: Helvetica, Arial, "Libertinus Sans", STFangsong, FangSong, sans-serif;
   padding: 0.2rem 0.3rem;
   background: rgba(27,31,35,0.05);
   word-wrap: break-word;
