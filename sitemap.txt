@@ -1,6 +1,6 @@
-http://example.com/cv/index.html
 http://example.com/about/index.html
 http://example.com/2021/10/11/Introduction/
+http://example.com/cv/index.html
 http://example.com/changelog/index.html
 http://example.com/teaching/index.html
 http://example.com/project/index.html
